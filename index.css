@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    padding: 10px;
+    font-family: 'Comforter';
+    min-width: 400px;
+}
+
+/* 
+styling according to the given data 
+*/
+
+input{
+    width: 100%;   
+    padding:10px ;
+    
+    /* 20px = 10px padding from right and left both. Therfore, making box = border box */
+    box-sizing: border-box;
+    border: 1px solid #5f9341;
+    margin: 0 0 5px 0;
+}
+
+button{
+    padding: 10px 20px;
+    /* padding->   top,bottom: 3px ; left,right: 10px*/
+    background: #5f9341;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    /* border: none; */
+    border: 1px solid #5f9341;
+    /* margin: 5px; */
+}
+#delete-btn{
+    padding: 10px 20px;
+    /* padding->   top,bottom: 3px ; left,right: 10px*/
+    background: white;
+    color: #5f9341;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    border: 1px solid #5f9341;
+    /* margin: 5px; */
+}
+
+ul{
+    margin: 15px 0 0 0;    /*margin only from top*/
+    padding: 0;
+    list-style: none;
+}
+li{
+    margin: 5px 0 0 0;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+li a{
+    color: #5f9341;
+}
