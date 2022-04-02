@@ -16,4 +16,4 @@ You just have to double click on "DELETE ALL" to delete  all the references.
 And there is no need to worry about the links vanishing the moment you close chrome.
 Until you don't delete all the links. The links will remain.
 
-##THANK YOU!
+## THANK YOU!
